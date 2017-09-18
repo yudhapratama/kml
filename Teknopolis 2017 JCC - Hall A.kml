@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Teknopolis 2017 JCC - Hall A</name>
+    <description/>
+    <NetworkLink>
+      <name>Teknopolis 2017 JCC - Hall A</name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/kml?forcekml=1&mid=1BfgDJLF914aOnjrgUNr2832woQo]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
