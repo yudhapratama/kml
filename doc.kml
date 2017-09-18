@@ -6,9 +6,6 @@
     <Style id="icon-1899-0288D1-nodesc-normal">
       <IconStyle>
         <scale>1</scale>
-        <Icon>
-          <href>images/icon-2.png</href>
-        </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
       <LabelStyle>
@@ -21,9 +18,6 @@
     <Style id="icon-1899-0288D1-nodesc-highlight">
       <IconStyle>
         <scale>1</scale>
-        <Icon>
-          <href>images/icon-2.png</href>
-        </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
       <LabelStyle>
@@ -46,9 +40,6 @@
     <Style id="icon-1899-F9A825-normal">
       <IconStyle>
         <scale>1</scale>
-        <Icon>
-          <href>images/icon-1.png</href>
-        </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
       <LabelStyle>
@@ -58,9 +49,6 @@
     <Style id="icon-1899-F9A825-highlight">
       <IconStyle>
         <scale>1</scale>
-        <Icon>
-          <href>images/icon-1.png</href>
-        </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
       <LabelStyle>
